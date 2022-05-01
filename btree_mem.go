@@ -25,7 +25,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/google/btree"
+	"github.com/pkorotkov/btree"
 	"github.com/petar/GoLLRB/llrb"
 )
 
